@@ -1,0 +1,36 @@
+{
+  "isGitRepository": 0,
+  "gitInfo": {
+    "importedAt": 0,
+    "repoURL": "",
+    "hasCI": 0
+  },
+  "system": {
+    "dependencies": [],
+    "language": "",
+    "microservices": [
+      {
+        "name": "",
+        "configuration": [],
+        "code": {
+          "source_files": [],
+          "clean_source_dir": "",
+          "http": [],
+          "databases": [],
+          "imports": [],
+          "annotations": [],
+          "methods": [],
+          "language": ""
+        },
+        "dependencies": [],
+        "deployment": {
+          "images": [],
+          "servers": []
+        },
+        "environment": [],
+        "locs": 0,
+        "nbfiles": 0
+      }]
+  }
+
+}
